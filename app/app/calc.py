@@ -1,0 +1,7 @@
+# simple calc functions
+
+def add_numbers(a, b):
+    return a+b
+
+def sub_numbers(a, b):
+    return b-a
